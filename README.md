@@ -1,4 +1,4 @@
-# 🔢 Resolvedor de Sistemas Lineares com Números Complexos
+#  Resolvedor de Sistemas Lineares com Números Complexos
 
 Um resolvedor interativo e visual de sistemas lineares que suporta números complexos em formatos retangular e fasorial, com representações gráficas em tempo real.
 
