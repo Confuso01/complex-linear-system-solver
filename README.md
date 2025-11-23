@@ -7,35 +7,35 @@ Um resolvedor interativo e visual de sistemas lineares que suporta números comp
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## ✨ Características
+##  Características
 
-- ✅ **Suporte completo a números complexos**
+-  **Suporte completo a números complexos**
   - Formato retangular: `a+bj` (ex: `3+4j`, `2-5j`)
   - Formato fasorial: `M∠θ` (ex: `5∠30`, `10<45`)
   
-- 📊 **Matrizes de 2×2 até 6×6**
+-  **Matrizes de 2×2 até 6×6**
   - Resolução usando eliminação gaussiana com pivotamento parcial
   - Cálculo automático do determinante
   
-- 🔍 **Resolução passo a passo**
+-  **Resolução passo a passo**
   - Visualização detalhada do processo de eliminação
   - Substituição retroativa explicada
   
-- 📈 **Diagramas visuais**
+-  **Diagramas visuais**
   - Diagrama Fasorial
   - Diagrama Vetorial
   - Diagrama Poligonal
   
-- 🎨 **Interface moderna**
+-  **Interface moderna**
   - Modo claro e escuro
   - Design responsivo
   - Animações suaves
   
-- 🔧 **Duas formas de entrada**
+-  **Duas formas de entrada**
   - Entrada por matriz (A × x = b)
   - Entrada por sistema de equações
 
-## 🚀 Como Usar
+##  Como Usar
 
 ### 1. Acesso Rápido
 Basta abrir o arquivo `index.html` em qualquer navegador moderno. Não requer instalação!
@@ -93,14 +93,14 @@ Basta abrir o arquivo `index.html` em qualquer navegador moderno. Não requer in
 
 ### Resultados Fornecidos
 
-- ✅ Solução em formato retangular
-- ✅ Solução em formato fasorial
-- ✅ Determinante da matriz (retangular e fasorial)
-- ✅ Verificação da solução (A × x = b)
-- ✅ Processo passo a passo (opcional)
-- ✅ Representações visuais (opcionais)
+-  Solução em formato retangular
+-  Solução em formato fasorial
+-  Determinante da matriz (retangular e fasorial)
+-  Verificação da solução (A × x = b)
+-  Processo passo a passo (opcional)
+-  Representações visuais (opcionais)
 
-## 🎓 Aplicações
+##  Aplicações
 
 Este resolvedor é ideal para:
 - 📚 Estudantes de engenharia elétrica
@@ -109,7 +109,7 @@ Este resolvedor é ideal para:
 - 📊 Sistemas de controle
 - 🎯 Processamento de sinais
 
-## 💻 Tecnologias
+##  Tecnologias
 
 - **HTML5** - Estrutura
 - **CSS3** - Estilização e animações
@@ -178,7 +178,7 @@ Clique em "Resolver Sistema" para ver a solução!
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor: Moisés
 
 Desenvolvido com ❤️ para facilitar o aprendizado de sistemas lineares complexos.
 
@@ -190,8 +190,8 @@ Desenvolvido com ❤️ para facilitar o aprendizado de sistemas lineares comple
 
 ---
 
-**⭐ Se este projeto foi útil, considere dar uma estrela!**
+** Se este projeto foi útil, considere dar uma estrela!**
 
-**🐛 Encontrou um bug? Abra uma issue!**
+** Encontrou um bug? Abra uma issue!**
 
-**💡 Tem uma sugestão? Contribua com o projeto!**
+** Tem uma sugestão? Contribua com o projeto!**
